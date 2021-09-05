@@ -2,6 +2,7 @@
 
 namespace LineComparision
 {
+
     class Program
     {
         static void Main(string[] args)
@@ -21,7 +22,6 @@ namespace LineComparision
             y4 = 10;
             var distance2 = Math.Sqrt((Math.Pow(x4 - x3, 2) + Math.Pow(y4 - y3, 2)));
             Console.WriteLine(distance2);
-
             if (distance1 == distance2)
             {
                 Console.WriteLine("Lengths are equal");
@@ -30,9 +30,16 @@ namespace LineComparision
             {
                 Console.WriteLine("Lengths are not equal");
             }
+            if (distance1 > distance2)
+            {
+                Console.WriteLine("Length 1 is greater than Length 2");
+            }
+            else
+            {
+                Console.WriteLine("Length 1 is less than Length 2");
+            }
 
         }
-
     }
 }
 
