@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\LineComparision\LineComparision\bin\Debug\netcoreapp3.1\LineComparision.exe
+C:\Users\Admin\source\repos\LineComparision\LineComparision\bin\Debug\netcoreapp3.1\LineComparision.deps.json
+C:\Users\Admin\source\repos\LineComparision\LineComparision\bin\Debug\netcoreapp3.1\LineComparision.runtimeconfig.json
+C:\Users\Admin\source\repos\LineComparision\LineComparision\bin\Debug\netcoreapp3.1\LineComparision.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\LineComparision\LineComparision\bin\Debug\netcoreapp3.1\LineComparision.dll
+C:\Users\Admin\source\repos\LineComparision\LineComparision\bin\Debug\netcoreapp3.1\LineComparision.pdb
+C:\Users\Admin\source\repos\LineComparision\LineComparision\obj\Debug\netcoreapp3.1\LineComparision.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\LineComparision\LineComparision\obj\Debug\netcoreapp3.1\LineComparision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\LineComparision\LineComparision\obj\Debug\netcoreapp3.1\LineComparision.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\LineComparision\LineComparision\obj\Debug\netcoreapp3.1\LineComparision.AssemblyInfo.cs
+C:\Users\Admin\source\repos\LineComparision\LineComparision\obj\Debug\netcoreapp3.1\LineComparision.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LineComparision\LineComparision\obj\Debug\netcoreapp3.1\LineComparision.dll
+C:\Users\Admin\source\repos\LineComparision\LineComparision\obj\Debug\netcoreapp3.1\LineComparision.pdb
+C:\Users\Admin\source\repos\LineComparision\LineComparision\obj\Debug\netcoreapp3.1\LineComparision.genruntimeconfig.cache
